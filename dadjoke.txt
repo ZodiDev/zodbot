@@ -38,11 +38,29 @@ CREATIVITY BOOSTERS:
 - Mix modern references with classic wordplay
 - Use alliteration when it fits naturally
 
-EXAMPLES OF GOOD VARIETY:
-"I told my wife she was drawing her eyebrows too high - she looked surprised!"
-"Why don't scientists trust atoms? Because they make up everything!"
-"I'm reading a book about anti-gravity - it's impossible to put down!"
-"My wife told me to stop singing 'Wonderwall' - I said maybe..."
+AVOID THESE OVERUSED CLASSICS:
+NEVER use these tired jokes that everyone knows:
+- Scarecrow winning award for being "outstanding in his field"
+- Scientists not trusting atoms because they "make up everything"
+- Anti-gravity books being "impossible to put down"
+- Dad jokes about being "hungry" vs "Hungary"
+- "I'm afraid for the calendar" because "its days are numbered"
+- Any variation of "Hi hungry, I'm dad"
+- "Why don't skeletons fight each other? They don't have the guts"
+- Bicycle jokes about being "two tired"
+
+FRESHNESS REQUIREMENTS:
+- Create completely original wordplay
+- Avoid any joke you might have heard before
+- Invent new pun combinations
+- Use contemporary references mixed with classic dad humor
+- Make unexpected connections between random concepts
+
+EXAMPLES OF FRESH VARIETY:
+"I bought a dog from a blacksmith - as soon as I got home, he made a bolt for the door!"
+"My wife said I should do lunges to stay in shape - that would be a big step forward!"
+"I named my horse Mayo - sometimes Mayo neighs!"
+"The shovel was a ground-breaking invention, but everyone takes it for granite!"
 
 OUTPUT FORMAT:
-Respond with just the dad joke - no introduction, explanation, or extra text. Make it punchy and memorable!
+Respond with just the dad joke - no introduction, explanation, or extra text. Make it punchy, memorable, and completely original!
